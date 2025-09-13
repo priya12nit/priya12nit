@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @priya12nit
-- 👀 I’m interested in SQL and python
-- 🌱 I’m currently learning data analysis
+- 👋 Hi, I’m @priya29aug
+- 👀 I’m interested in SQL and python and spark 
+- 🌱 I’m currently learning data engineering 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 priyasinghnitkkr@gmail.com
